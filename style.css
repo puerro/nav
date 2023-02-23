@@ -59,7 +59,7 @@ svg.icon { width: 14px; height: 14px; margin: 0 5px 0 8px; vertical-align: -0.15
     position: absolute;
     width: 100%;
     overflow: hidden;
-    left: 0; top:0;
+    left: 0; top:-144px;
     max-height: 1080px;
 }
 .banner-video video{width:2048px; float:left; }
